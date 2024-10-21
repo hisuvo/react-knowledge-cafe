@@ -2,9 +2,9 @@
     {
         "id": 1,
         "title": "Introduction to JavaScript",
-        "cover_img": "https://example.com/images/js-intro.jpg",
+        "cover_img": "https://i.ibb.co.com/VLB4hhs/1.jpg",
         "admin_name": "John Doe",
-        "admin_img": "https://example.com/images/admin-johndoe.jpg",
+        "admin_img": "https://i.ibb.co.com/QMCKQsK/blog1.jpg",
         "publish_date": "2023-01-15",
         "read_time": 5,
         "hysetag": [
@@ -16,9 +16,9 @@
     {
         "id": 2,
         "title": "Mastering Python for Data Science",
-        "cover_img": "https://example.com/images/python-data-science.jpg",
+        "cover_img": "https://i.ibb.co.com/nB8Jbx3/2.jpg",
         "admin_name": "Jane Smith",
-        "admin_img": "https://example.com/images/admin-janesmith.jpg",
+        "admin_img": "https://i.ibb.co.com/h12TZFR/blog2.jpg",
         "publish_date": "2023-02-22",
         "read_time": 8,
         "hysetag": [
@@ -30,9 +30,9 @@
     {
         "id": 3,
         "title": "Understanding Cloud Computing",
-        "cover_img": "https://example.com/images/cloud-computing.jpg",
+        "cover_img": "https://i.ibb.co.com/hdGgsKw/3.jpg",
         "admin_name": "Alice Johnson",
-        "admin_img": "https://example.com/images/admin-alicejohnson.jpg",
+        "admin_img": "https://i.ibb.co.com/ysxsNJZ/blog3.jpg",
         "publish_date": "2023-03-05",
         "read_time": 7,
         "hysetag": [
@@ -44,9 +44,9 @@
     {
         "id": 4,
         "title": "A Guide to Frontend Frameworks",
-        "cover_img": "https://example.com/images/frontend-frameworks.jpg",
+        "cover_img": "https://i.ibb.co.com/0h8T8FB/4.jpg",
         "admin_name": "Bob Lee",
-        "admin_img": "https://example.com/images/admin-boblee.jpg",
+        "admin_img": "https://i.ibb.co.com/h12TZFR/blog2.jpg",
         "publish_date": "2023-04-12",
         "read_time": 6,
         "hysetag": [
@@ -58,9 +58,9 @@
     {
         "id": 5,
         "title": "Building REST APIs with Node.js",
-        "cover_img": "https://example.com/images/nodejs-api.jpg",
+        "cover_img": "https://i.ibb.co.com/qk5p0WC/5.jpg",
         "admin_name": "Charlie Brown",
-        "admin_img": "https://example.com/images/admin-charliebrown.jpg",
+        "admin_img": "https://i.ibb.co.com/QMCKQsK/blog1.jpg",
         "publish_date": "2023-05-30",
         "read_time": 10,
         "hysetag": [

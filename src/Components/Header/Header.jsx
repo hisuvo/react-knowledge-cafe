@@ -1,9 +1,10 @@
-
+import profile from "../../assets/images/profile.png";
 function Header(props) {
     return (
-        <div>
+        <header className="flex justify-between items-center p-4 mx-4 border-b-2">
             <h2 className="text-2xl font-semibold">Knowladge Cafe</h2>
-        </div>
+            <img src={profile} alt="Login Image" />
+        </header>
     );
 }
 

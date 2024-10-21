@@ -1,0 +1,72 @@
+[
+    {
+        "id": 1,
+        "title": "Introduction to JavaScript",
+        "cover_img": "https://example.com/images/js-intro.jpg",
+        "admin_name": "John Doe",
+        "admin_img": "https://example.com/images/admin-johndoe.jpg",
+        "publish_date": "2023-01-15",
+        "read_time": 5,
+        "hysetag": [
+            "JavaScript",
+            "Programming",
+            "Web Development"
+        ]
+    },
+    {
+        "id": 2,
+        "title": "Mastering Python for Data Science",
+        "cover_img": "https://example.com/images/python-data-science.jpg",
+        "admin_name": "Jane Smith",
+        "admin_img": "https://example.com/images/admin-janesmith.jpg",
+        "publish_date": "2023-02-22",
+        "read_time": 8,
+        "hysetag": [
+            "Python",
+            "Data Science",
+            "Machine Learning"
+        ]
+    },
+    {
+        "id": 3,
+        "title": "Understanding Cloud Computing",
+        "cover_img": "https://example.com/images/cloud-computing.jpg",
+        "admin_name": "Alice Johnson",
+        "admin_img": "https://example.com/images/admin-alicejohnson.jpg",
+        "publish_date": "2023-03-05",
+        "read_time": 7,
+        "hysetag": [
+            "Cloud",
+            "AWS",
+            "Azure"
+        ]
+    },
+    {
+        "id": 4,
+        "title": "A Guide to Frontend Frameworks",
+        "cover_img": "https://example.com/images/frontend-frameworks.jpg",
+        "admin_name": "Bob Lee",
+        "admin_img": "https://example.com/images/admin-boblee.jpg",
+        "publish_date": "2023-04-12",
+        "read_time": 6,
+        "hysetag": [
+            "React",
+            "Vue",
+            "Frontend"
+        ]
+    },
+    {
+        "id": 5,
+        "title": "Building REST APIs with Node.js",
+        "cover_img": "https://example.com/images/nodejs-api.jpg",
+        "admin_name": "Charlie Brown",
+        "admin_img": "https://example.com/images/admin-charliebrown.jpg",
+        "publish_date": "2023-05-30",
+        "read_time": 10,
+        "hysetag": [
+            "Node.js",
+            "API",
+            "Backend"
+        ]
+    }
+]

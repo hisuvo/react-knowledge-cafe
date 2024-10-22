@@ -1,6 +1,6 @@
 import { CiBookmark } from "react-icons/ci";
 
-function Blog({ blog, handleBookmark }) {
+function Blog({ blog, handleBookmark, handleMakeAsRead }) {
     const { id, title, cover_img, admin_name, admin_img, publish_date, read_time, hysetag } = blog
 
     return (
@@ -26,6 +26,8 @@ function Blog({ blog, handleBookmark }) {
             <h2 className="text-4xl font-bold mb-4">{title}</h2>
 
             {hysetag.map((item, indx) => <span className="text-xl" key={indx}><a className="mr-2 text-xl font-medium text-gray-400">#{item}</a></span>)}
+
+            <h3 onClick={handleMakeAsRead} className="text-xl font-semibold text-[#6047EC] underline mt-5 cursor-pointer">Make as read</h3>
         </div>
     );
 }

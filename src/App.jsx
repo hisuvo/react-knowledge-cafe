@@ -7,7 +7,7 @@ function App() {
   return (
     <>
       <Header />
-      <main className='md:flex mx-4'>
+      <main className='md:flex w-10/12 mx-auto my-8'>
         <Blogs />
         <BookMarks />
       </main>

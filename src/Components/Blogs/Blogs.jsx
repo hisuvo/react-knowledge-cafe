@@ -12,9 +12,9 @@ function Blogs(props) {
     }, [])
 
     return (
-        <div className="md:w-2/3 border-2">
+        <div className="md:w-2/3">
             <h2 className="text-2xl">Blogs: {blogs.length}</h2>
-            {blogs.map(blog => <Blog blog={blog} />)}
+            {blogs.map((blog, idx) => < Blog key={idx} blog={blog} />)}
         </div>
     );
 }

@@ -1,7 +1,7 @@
 
 function BookMarks(props) {
     return (
-        <div className="md:w-1/3 border-2">
+        <div className="md:w-1/3">
             <h3>Book Marks</h3>
         </div>
     );
